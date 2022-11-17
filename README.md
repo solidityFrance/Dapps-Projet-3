@@ -5,7 +5,8 @@
 https://www.loom.com/share/
 
 ### Le lien Github Pages
-https://solidityFrance.github.io
+
+https://github.com/solidityFrance/
 
 ## Installation
 
